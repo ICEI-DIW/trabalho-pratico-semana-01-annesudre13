@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Anne Nascimento Sudre
+Matricula: 893801
 
 ## Tela de inspeção com navegador
+![tela](image.png)
 
 
 ## Tela de projeto no Replit
-
+![replit](image-1.png)
